@@ -1,0 +1,12 @@
+{
+    "name": "avr-stl",
+    "keywords": "template,cpp,stl",
+    "description": "The C++ Standard Template Library for the Arduino.",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/andysworkshop/avr-stl"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}

@@ -1,9 +1,0 @@
-*.map
-*.elf
-*.o
-*.hex
-*.d
-/Debug/
-.cproject
-.project
-.settings/
