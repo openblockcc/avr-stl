@@ -5,8 +5,8 @@
     "repository":
     {
         "type": "git",
-        "url": "https://github.com/andysworkshop/avr-stl"
+        "url": "https://github.com/openblockcc/avr-stl"
     },
     "frameworks": "arduino",
-    "platforms": "*"
+    "platforms": "avr"
 }
